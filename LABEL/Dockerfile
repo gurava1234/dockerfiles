@@ -1,4 +1,4 @@
 FROM lamlinux:8
 LABEL TRAINING="DEVOPS" \
-      TRAINER="sivakumar" \
+      LEARNER="guru" \
       DURATION="120HRS"
